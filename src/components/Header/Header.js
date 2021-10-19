@@ -7,7 +7,7 @@ const Header = () => {
   const { user, logout } = useAuth();
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg navbar-info bg-info">
         <div className="container">
           <Link className="navbar-brand" to="#">
             Medinoba
