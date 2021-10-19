@@ -8,10 +8,10 @@ const Home = () => {
       <div className="home-banner">
         <div className="inside-banner">
           <div className="banner-content">
-            <h1>Welcome to Our Diagnostic Centre </h1>
+            <h1>Get Best Healthcare</h1>
             <p>
-              The quality of lab tests at Labaid Diagnostics is ensured at every
-              step from sample collection to testing to reporting.
+              The quality of lab tests at Medinoba Diagnostics is ensured at
+              every step from sample collection to testing to reporting.
             </p>
             <button className="btn btn-info">Get Appointment</button>
           </div>
